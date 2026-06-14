@@ -1,0 +1,5 @@
+Ermyu Sunlit Valley Server Patch 1.0.0
+
+- Society Sunlit Valley 4.0.9 기준
+- 서버 접속용 config/defaultconfigs/kubejs 동기화
+- 서버 주소는 런처에서 자동 등록
